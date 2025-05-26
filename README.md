@@ -5,15 +5,22 @@
 Want to build your own website in minutes? Join us to learn how to create a simple, stylish website using Quarto, and publish it for free with GitHub Pages! 🌐✨
 Perfect for portfolios, blogs, or project pages — no experience needed. You could make something like the [RLadies Melbourne website](https://r-ladiesmelbourne.github.io/) or [WEHI's intro to R coursebook](https://kzeglinski.github.io/new_wehi_r_course/)!
 
-📝 Workshop details:
+📝 **Workshop details:**
+
 📅 28th of May
+
 🕒 5:30-6:00pm (in-person networking & refreshments)
+
 🕒 6:00pm-7:30pm (hybrid workshop)
+
 📍 DiUS 3/31 Queen St, Melbourne VIC 3000 or Online (zoom link posted on the day)
 
-🛠 Before the workshop:
+🛠 **Before the workshop:**
+
 ✅ Install RStudio or R + Quarto CLI
+
 ✅ Create a GitHub account (if you don’t have one yet)
+
 ✅ Bring your laptop and curiosity — we’ll handle the rest!
 
 ### Speakers:
