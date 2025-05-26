@@ -1,6 +1,6 @@
 # 28-05-25-Creating-simple-websites-with-Quarto-GitHub-Pages
 
-Details
+### Details
 
 Want to build your own website in minutes? Join us to learn how to create a simple, stylish website using Quarto, and publish it for free with GitHub Pages! 🌐✨
 Perfect for portfolios, blogs, or project pages — no experience needed. You could make something like the [RLadies Melbourne website](https://r-ladiesmelbourne.github.io/) or [WEHI's intro to R coursebook](https://kzeglinski.github.io/new_wehi_r_course/)!
@@ -16,7 +16,8 @@ Perfect for portfolios, blogs, or project pages — no experience needed. You co
 ✅ Create a GitHub account (if you don’t have one yet)
 ✅ Bring your laptop and curiosity — we’ll handle the rest!
 
-Speakers:
+### Speakers:
+
 [Danyang Dai](https://github.com/DanyangDai) & [Kathleen Zeglinski](https://github.com/kzeglinski)
 
 Danyang Dai (Daidai) is a third-year PhD candidate at the Queensland Digital Health Centre (QDHeC) at The University of Queensland. Her research focuses on advancing population health outcomes in the post-COVID-19 era. With a strong academic background in Econometrics and Biostatistics, Daidai is also a passionate advocate for the R programming language. She has actively contributed to the academic and professional communities through her involvement with organizations such as R-Ladies Melbourne and by creating educational resources for R programming.
